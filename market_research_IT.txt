@@ -1,0 +1,62 @@
+India's IT & BPM Sector: At a Glance
+India's Information Technology (IT) and Business Process Management (BPM) industry is a cornerstone of the national economy, poised for significant growth driven by digital transformation and strong global demand.
+
+Economic Contribution: The industry is projected to reach US$350 billion by 2026, contributing 10% to India's GDP.
+
+Revenue Growth: Industry revenue was estimated to be US$245 billion in FY23, marking substantial year-on-year growth.
+
+Foreign Investment: The computer software and hardware sector is the second largest recipient of Foreign Direct Investment (FDI) in India, attracting US$108.40 billion between April 2000 and December 2024.
+
+Employment: The IT-BPM sector is a major employer, with an estimated 5.4 million direct employees in FY23.
+
+Exports: Exports are the backbone of the industry, reaching US$199 billion in FY24.
+
+Key Growth Drivers & Opportunities
+Several factors are propelling the industry forward, creating a robust ecosystem for innovation and expansion.
+
+Emerging Technologies 🤖:
+
+The adoption of Generative AI (GenAI) is expected to boost productivity in key sectors like retail by up to 37%.
+
+India is a global leader in AI skill penetration and talent concentration, producing 16% of the world's AI talent pool.
+
+The government's IndiaAI Mission, with an outlay of US$1.2 billion, is set to significantly bolster the country's AI capabilities.
+
+Cloud & Digital Transformation ☁️:
+
+The push towards cloud services has fueled massive investments in hyper-scale data centers, with India's data center market expected to nearly double its capacity to 2 GW by 2026.
+
+India's public cloud services market is projected to reach US$17.8 billion by 2027.
+
+Strong Talent Pool 🧑‍💻:
+
+India has one of the world's largest pools of STEM graduates, with 2.5 million graduating annually.
+
+The country also has a low tech talent demand-supply gap of 25-27% compared to other global tech leaders.
+
+Supportive Government Policies 📜:
+
+The government actively supports the sector through initiatives like the Production Linked Incentive (PLI) scheme for IT hardware and has established Centers of Excellence for AI.
+
+With data costs among the cheapest in the world at approximately US$0.12/GB, India maintains a significant competitive advantage.
+
+Market & Export Overview
+The Indian IT-BPM market is well-diversified across several key segments and has a dominant global footprint.
+
+Major Market Segments (2023 estimates):
+
+IT Services: The largest segment at US$125 billion, contributing over 51% of the market revenue.
+
+Software & Engineering Services: A significant segment with a market size of US$54 billion.
+
+Business Process Management (BPM): A US$47 billion market, expected to grow to US$54 billion by FY25.
+
+Hardware: An US$18 billion market with a strong domestic focus.
+
+Export Dominance:
+
+Exports account for the majority of the industry's revenue.
+
+The United States and the United Kingdom are the largest export markets, accounting for 62% and 17% of revenues in FY23, respectively.
+
+The BFSI (Banking, Financial Services, and Insurance) sector remains a key business vertical, contributing a major share of revenue for top IT firms.
