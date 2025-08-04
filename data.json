@@ -1,0 +1,748 @@
+{
+  "dataset_info": {
+    "name": "Startup Blueprint Generator Dataset",
+    "description": "Comprehensive dataset for RAG-based startup blueprint generation",
+    "version": "1.0",
+    "last_updated": "2025-01-15",
+    "total_documents": 847,
+    "categories": [
+      "business_models",
+      "budget_templates",
+      "market_strategies",
+      "industry_analysis",
+      "policy_documents",
+      "funding_sources",
+      "legal_frameworks",
+      "market_research"
+    ]
+  },
+  
+  "business_model_templates": [
+    {
+      "id": "bmc_001",
+      "model_type": "SaaS B2B",
+      "industry": "Technology",
+      "canvas": {
+        "key_partners": [
+          "Cloud infrastructure providers (AWS, Azure, GCP)",
+          "Integration partners (Zapier, Salesforce)",
+          "Channel partners and resellers",
+          "Technology vendors",
+          "Professional service providers"
+        ],
+        "key_activities": [
+          "Software development and maintenance",
+          "Customer acquisition and retention",
+          "Data analytics and insights",
+          "Customer support and success",
+          "Marketing and sales activities"
+        ],
+        "key_resources": [
+          "Engineering team and technical expertise",
+          "Proprietary technology and IP",
+          "Customer data and analytics",
+          "Brand and reputation",
+          "Financial capital"
+        ],
+        "value_propositions": [
+          "Increased operational efficiency",
+          "Cost reduction through automation",
+          "Real-time analytics and insights",
+          "Scalable solution",
+          "24/7 customer support"
+        ],
+        "customer_relationships": [
+          "Self-service platform",
+          "Dedicated account management",
+          "Community support",
+          "Personal assistance",
+          "Automated services"
+        ],
+        "channels": [
+          "Direct sales team",
+          "Online marketing (SEO, SEM, content)",
+          "Partner channels",
+          "Trade shows and events",
+          "Referral programs"
+        ],
+        "customer_segments": [
+          "Mid-market companies (100-1000 employees)",
+          "Enterprise clients (1000+ employees)",
+          "Specific industry verticals",
+          "Geographic segments",
+          "Use-case specific segments"
+        ],
+        "cost_structure": [
+          "Engineering and development (40%)",
+          "Sales and marketing (30%)",
+          "Customer success and support (15%)",
+          "Infrastructure and operations (10%)",
+          "General and administrative (5%)"
+        ],
+        "revenue_streams": [
+          "Monthly/Annual subscription fees",
+          "Usage-based pricing",
+          "Professional services",
+          "Training and certification",
+          "Premium support packages"
+        ]
+      }
+    },
+    {
+      "id": "bmc_002",
+      "model_type": "E-commerce Marketplace",
+      "industry": "Retail",
+      "canvas": {
+        "key_partners": [
+          "Suppliers and vendors",
+          "Payment processors",
+          "Logistics and shipping partners",
+          "Marketing affiliates",
+          "Technology service providers"
+        ],
+        "key_activities": [
+          "Platform development and maintenance",
+          "Vendor onboarding and management",
+          "Order processing and fulfillment",
+          "Customer acquisition",
+          "Quality control and fraud prevention"
+        ],
+        "key_resources": [
+          "E-commerce platform technology",
+          "Brand and customer base",
+          "Data and analytics capabilities",
+          "Vendor network",
+          "Fulfillment infrastructure"
+        ],
+        "value_propositions": [
+          "Wide product selection",
+          "Competitive pricing",
+          "Fast and reliable delivery",
+          "Secure payment processing",
+          "Easy returns and customer service"
+        ],
+        "customer_relationships": [
+          "Self-service platform",
+          "Personalized recommendations",
+          "Customer reviews and ratings",
+          "Loyalty programs",
+          "24/7 customer support"
+        ],
+        "channels": [
+          "E-commerce website",
+          "Mobile applications",
+          "Social media marketing",
+          "Email marketing",
+          "Search engine marketing"
+        ],
+        "customer_segments": [
+          "Price-conscious consumers",
+          "Convenience seekers",
+          "Tech-savvy millennials",
+          "Small business buyers",
+          "Geographic segments"
+        ],
+        "cost_structure": [
+          "Technology development and maintenance (25%)",
+          "Marketing and customer acquisition (30%)",
+          "Payment processing fees (5%)",
+          "Logistics and fulfillment (20%)",
+          "Customer service and operations (20%)"
+        ],
+        "revenue_streams": [
+          "Commission on sales (5-15%)",
+          "Subscription fees from sellers",
+          "Advertising revenue",
+          "Premium listing fees",
+          "Payment processing fees"
+        ]
+      }
+    },
+    {
+      "id": "bmc_003",
+      "model_type": "Fintech Mobile App",
+      "industry": "Financial Services",
+      "canvas": {
+        "key_partners": [
+          "Banking partners",
+          "Payment processors",
+          "Regulatory compliance partners",
+          "Security service providers",
+          "App store platforms"
+        ],
+        "key_activities": [
+          "App development and maintenance",
+          "Regulatory compliance",
+          "Customer onboarding and KYC",
+          "Fraud detection and prevention",
+          "Customer support"
+        ],
+        "key_resources": [
+          "Mobile technology platform",
+          "Financial licenses and compliance",
+          "User data and analytics",
+          "Security infrastructure",
+          "Brand trust and reputation"
+        ],
+        "value_propositions": [
+          "Easy and convenient financial management",
+          "Lower fees than traditional banks",
+          "Real-time notifications and insights",
+          "24/7 access to financial services",
+          "Advanced security features"
+        ],
+        "customer_relationships": [
+          "Self-service mobile app",
+          "In-app customer support",
+          "Personal financial insights",
+          "Community features",
+          "Educational content"
+        ],
+        "channels": [
+          "Mobile app stores",
+          "Digital marketing",
+          "Referral programs",
+          "Social media",
+          "Content marketing"
+        ],
+        "customer_segments": [
+          "Tech-savvy millennials",
+          "Underbanked populations",
+          "Small business owners",
+          "Digital nomads",
+          "Cost-conscious consumers"
+        ],
+        "cost_structure": [
+          "Technology development (35%)",
+          "Regulatory compliance (15%)",
+          "Customer acquisition (25%)",
+          "Operations and support (15%)",
+          "Security and fraud prevention (10%)"
+        ],
+        "revenue_streams": [
+          "Interchange fees",
+          "Premium subscription features",
+          "Interest on deposits",
+          "Lending products",
+          "Partner revenue sharing"
+        ]
+      }
+    }
+  ],
+  
+  "budget_templates": [
+    {
+      "id": "budget_001",
+      "startup_stage": "Pre-Seed",
+      "industry": "Technology",
+      "timeframe": "12 months",
+      "total_budget": 150000,
+      "breakdown": {
+        "personnel": {
+          "amount": 90000,
+          "percentage": 60,
+          "details": {
+            "founders": 36000,
+            "technical_team": 54000,
+            "contractors": 0
+          }
+        },
+        "technology": {
+          "amount": 15000,
+          "percentage": 10,
+          "details": {
+            "software_licenses": 6000,
+            "cloud_infrastructure": 4800,
+            "development_tools": 2400,
+            "hardware": 1800
+          }
+        },
+        "marketing": {
+          "amount": 22500,
+          "percentage": 15,
+          "details": {
+            "digital_advertising": 12000,
+            "content_creation": 4500,
+            "events_conferences": 3000,
+            "branding_design": 3000
+          }
+        },
+        "operations": {
+          "amount": 15000,
+          "percentage": 10,
+          "details": {
+            "office_rent": 7200,
+            "utilities": 1800,
+            "insurance": 2400,
+            "legal_accounting": 3600
+          }
+        },
+        "contingency": {
+          "amount": 7500,
+          "percentage": 5,
+          "details": {
+            "emergency_fund": 7500
+          }
+        }
+      }
+    },
+    {
+      "id": "budget_002",
+      "startup_stage": "Seed",
+      "industry": "E-commerce",
+      "timeframe": "18 months",
+      "total_budget": 500000,
+      "breakdown": {
+        "personnel": {
+          "amount": 300000,
+          "percentage": 60,
+          "details": {
+            "founders": 72000,
+            "engineering_team": 144000,
+            "marketing_team": 54000,
+            "operations_team": 30000
+          }
+        },
+        "technology": {
+          "amount": 50000,
+          "percentage": 10,
+          "details": {
+            "platform_development": 30000,
+            "third_party_integrations": 10000,
+            "infrastructure": 10000
+          }
+        },
+        "marketing": {
+          "amount": 100000,
+          "percentage": 20,
+          "details": {
+            "customer_acquisition": 60000,
+            "brand_building": 25000,
+            "pr_communications": 15000
+          }
+        },
+        "operations": {
+          "amount": 40000,
+          "percentage": 8,
+          "details": {
+            "office_facilities": 18000,
+            "legal_compliance": 12000,
+            "insurance": 6000,
+            "accounting": 4000
+          }
+        },
+        "contingency": {
+          "amount": 10000,
+          "percentage": 2,
+          "details": {
+            "emergency_fund": 10000
+          }
+        }
+      }
+    }
+  ],
+  
+  "go_to_market_strategies": [
+    {
+      "id": "gtm_001",
+      "strategy_type": "Product-Led Growth",
+      "industry": "SaaS",
+      "target_market": "B2B SME",
+      "phases": [
+        {
+          "phase": "Launch",
+          "duration": "3 months",
+          "objectives": [
+            "Product-market fit validation",
+            "Initial user acquisition",
+            "Feature optimization based on feedback"
+          ],
+          "tactics": [
+            "Freemium model implementation",
+            "Beta user program",
+            "Content marketing and SEO",
+            "Direct outreach to target customers"
+          ],
+          "metrics": [
+            "User acquisition rate",
+            "Product usage metrics",
+            "Customer feedback scores",
+            "Conversion from free to paid"
+          ],
+          "budget_allocation": 25000
+        },
+        {
+          "phase": "Growth",
+          "duration": "6 months",
+          "objectives": [
+            "Scale user acquisition",
+            "Optimize conversion funnel",
+            "Build brand awareness"
+          ],
+          "tactics": [
+            "Paid advertising campaigns",
+            "Partnership development",
+            "Referral program launch",
+            "Customer success program"
+          ],
+          "metrics": [
+            "Monthly recurring revenue",
+            "Customer acquisition cost",
+            "Customer lifetime value",
+            "Net promoter score"
+          ],
+          "budget_allocation": 75000
+        },
+        {
+          "phase": "Scale",
+          "duration": "3 months",
+          "objectives": [
+            "Market expansion",
+            "Revenue optimization",
+            "Competitive positioning"
+          ],
+          "tactics": [
+            "Enterprise sales development",
+            "Channel partner program",
+            "Thought leadership content",
+            "Customer advocacy program"
+          ],
+          "metrics": [
+            "Annual recurring revenue",
+            "Market share growth",
+            "Customer retention rate",
+            "Revenue per customer"
+          ],
+          "budget_allocation": 50000
+        }
+      ]
+    }
+  ],
+  
+  "industry_analysis": [
+    {
+      "id": "industry_001",
+      "industry": "FinTech",
+      "market_size": {
+        "global_market_2024": "312.92 billion USD",
+        "projected_2030": "882.30 billion USD",
+        "cagr": "19.8%"
+      },
+      "key_trends": [
+        "Digital banking transformation",
+        "AI and machine learning integration",
+        "Regulatory technology (RegTech) growth",
+        "Cryptocurrency and DeFi adoption",
+        "Embedded finance solutions"
+      ],
+      "competitive_landscape": {
+        "market_leaders": ["PayPal", "Square", "Stripe", "Ant Financial", "Klarna"],
+        "emerging_players": ["Neobanks", "Cryptocurrency platforms", "RegTech startups"],
+        "barriers_to_entry": [
+          "Regulatory compliance requirements",
+          "High customer acquisition costs",
+          "Need for significant capital",
+          "Security and trust concerns"
+        ]
+      },
+      "opportunities": [
+        "Underbanked population services",
+        "SME financial solutions",
+        "Cross-border payment solutions",
+        "AI-powered financial advisory",
+        "Sustainable finance products"
+      ],
+      "challenges": [
+        "Increasing regulatory scrutiny",
+        "Cybersecurity threats",
+        "Market saturation in developed countries",
+        "Customer trust and adoption",
+        "Economic uncertainty impact"
+      ]
+    },
+    {
+      "id": "industry_002",
+      "industry": "E-commerce",
+      "market_size": {
+        "global_market_2024": "6.2 trillion USD",
+        "projected_2030": "18.5 trillion USD",
+        "cagr": "20.1%"
+      },
+      "key_trends": [
+        "Mobile commerce dominance",
+        "Social commerce integration",
+        "AI-powered personalization",
+        "Sustainable and ethical shopping",
+        "Omnichannel retail experiences"
+      ],
+      "competitive_landscape": {
+        "market_leaders": ["Amazon", "Alibaba", "JD.com", "Shopify", "eBay"],
+        "emerging_players": ["Social commerce platforms", "Niche marketplaces", "D2C brands"],
+        "barriers_to_entry": [
+          "High customer acquisition costs",
+          "Logistics and fulfillment complexity",
+          "Technology infrastructure requirements",
+          "Inventory management challenges"
+        ]
+      },
+      "opportunities": [
+        "Emerging market expansion",
+        "Vertical-specific marketplaces",
+        "Subscription commerce models",
+        "AR/VR shopping experiences",
+        "B2B e-commerce platforms"
+      ],
+      "challenges": [
+        "Intense price competition",
+        "Customer retention difficulties",
+        "Supply chain disruptions",
+        "Data privacy regulations",
+        "Market saturation"
+      ]
+    }
+  ],
+  
+  "policy_documents": [
+    {
+      "id": "policy_001",
+      "country": "India",
+      "policy_name": "Startup India Initiative",
+      "key_benefits": [
+        "Tax exemptions for 3 consecutive years",
+        "Fast-track patent examination",
+        "Self-certification for labor and environment laws",
+        "Access to government tenders",
+        "Fund of Funds scheme access"
+      ],
+      "eligibility_criteria": [
+        "Incorporated as private limited company or LLP",
+        "Less than 10 years old from incorporation",
+        "Annual turnover less than INR 100 crores",
+        "Working on innovation or improvement of products/services",
+        "Not formed by splitting or reconstruction of existing business"
+      ],
+      "application_process": [
+        "Register on Startup India portal",
+        "Upload incorporation certificate",
+        "Provide business details and pitch deck",
+        "Submit recommendation letter if applicable",
+        "Wait for recognition certificate"
+      ]
+    },
+    {
+      "id": "policy_002",
+      "country": "United States",
+      "policy_name": "SBIR Program",
+      "key_benefits": [
+        "Non-dilutive funding up to $1.75M",
+        "Intellectual property retention",
+        "Commercialization support",
+        "Access to federal contracting opportunities",
+        "Technical assistance and mentoring"
+      ],
+      "eligibility_criteria": [
+        "For-profit small business (less than 500 employees)",
+        "More than 50% owned by US citizens or permanent residents",
+        "Primary employment of principal investigator with company",
+        "Research and development focus",
+        "Meets specific agency requirements"
+      ],
+      "funding_phases": [
+        {
+          "phase": "Phase I",
+          "amount": "Up to $275,000",
+          "duration": "6-12 months",
+          "purpose": "Feasibility study"
+        },
+        {
+          "phase": "Phase II",
+          "amount": "Up to $1,750,000",
+          "duration": "24 months",
+          "purpose": "Development and commercialization"
+        }
+      ]
+    }
+  ],
+  
+  "funding_sources": [
+    {
+      "id": "funding_001",
+      "source_type": "Venture Capital",
+      "stage": "Seed",
+      "typical_range": "$500K - $3M",
+      "requirements": [
+        "Proven market traction",
+        "Strong founding team",
+        "Scalable business model",
+        "Clear path to Series A",
+        "Defensible competitive advantage"
+      ],
+      "top_firms": [
+        {
+          "name": "Sequoia Capital",
+          "focus": "Technology, healthcare, financial services",
+          "average_check": "$1-2M",
+          "portfolio_companies": "Google, Apple, LinkedIn, WhatsApp"
+        },
+        {
+          "name": "Accel Partners",
+          "focus": "Software, internet, mobile",
+          "average_check": "$1-5M",
+          "portfolio_companies": "Facebook, Slack, Dropbox, Flipkart"
+        }
+      ]
+    },
+    {
+      "id": "funding_002",
+      "source_type": "Angel Investors",
+      "stage": "Pre-Seed/Seed",
+      "typical_range": "$25K - $500K",
+      "requirements": [
+        "MVP or prototype",
+        "Clear value proposition",
+        "Market opportunity validation",
+        "Strong pitch presentation",
+        "Team commitment and expertise"
+      ],
+      "platforms": [
+        {
+          "name": "AngelList",
+          "description": "Online platform connecting startups with angel investors",
+          "features": ["Investor networking", "Fundraising tools", "Legal support"]
+        },
+        {
+          "name": "Gust",
+          "description": "Global platform for startup funding",
+          "features": ["Investor matching", "Due diligence tools", "Portfolio management"]
+        }
+      ]
+    }
+  ],
+  
+  "legal_frameworks": [
+    {
+      "id": "legal_001",
+      "jurisdiction": "Delaware, USA",
+      "entity_type": "C-Corporation",
+      "advantages": [
+        "Investor-friendly structure",
+        "Well-established corporate law",
+        "Tax flexibility",
+        "Easy to raise capital",
+        "Strong legal precedents"
+      ],
+      "setup_requirements": [
+        "Articles of incorporation filing",
+        "Corporate bylaws adoption",
+        "Board of directors appointment",
+        "Stock issuance",
+        "Registered agent designation"
+      ],
+      "ongoing_compliance": [
+        "Annual franchise tax",
+        "Board meeting requirements",
+        "Stock ledger maintenance",
+        "SEC reporting (if applicable)",
+        "State annual reports"
+      ],
+      "estimated_costs": {
+        "formation": "$500-1500",
+        "annual_maintenance": "$300-800",
+        "legal_fees": "$2000-5000"
+      }
+    }
+  ],
+  
+  "market_research_templates": [
+    {
+      "id": "research_001",
+      "research_type": "Customer Discovery",
+      "methodology": "Interviews and Surveys",
+      "sample_questions": [
+        "What is your biggest challenge in [problem area]?",
+        "How do you currently solve this problem?",
+        "What would an ideal solution look like?",
+        "How much time/money do you spend on this problem?",
+        "What alternatives have you considered?",
+        "Who else is involved in the decision-making process?",
+        "What would prevent you from trying a new solution?",
+        "How do you typically evaluate new products/services?"
+      ],
+      "target_sample_size": 50,
+      "key_metrics": [
+        "Problem validation score",
+        "Solution-market fit",
+        "Willingness to pay",
+        "Purchase intent",
+        "Referral likelihood"
+      ]
+    },
+    {
+      "id": "research_002",
+      "research_type": "Competitive Analysis",
+      "framework": "Strategic Group Mapping",
+      "analysis_dimensions": [
+        "Price vs. Features",
+        "Market Focus vs. Geographic Reach",
+        "Product Complexity vs. Ease of Use",
+        "Innovation vs. Reliability"
+      ],
+      "competitor_categories": [
+        "Direct competitors",
+        "Indirect competitors", 
+        "Substitute products",
+        "Potential entrants"
+      ],
+      "key_metrics": [
+        "Market share",
+        "Revenue growth",
+        "Customer satisfaction",
+        "Feature comparison",
+        "Pricing strategy"
+      ]
+    }
+  ],
+  
+  "success_metrics": [
+    {
+      "category": "Financial Metrics",
+      "metrics": [
+        {
+          "name": "Monthly Recurring Revenue (MRR)",
+          "description": "Predictable revenue generated each month",
+          "calculation": "Sum of all subscription revenues normalized to monthly",
+          "target_growth": "15-20% month-over-month"
+        },
+        {
+          "name": "Customer Acquisition Cost (CAC)",
+          "description": "Cost to acquire a new customer",
+          "calculation": "Total acquisition costs / Number of customers acquired",
+          "benchmark": "Should be recovered within 12 months"
+        },
+        {
+          "name": "Customer Lifetime Value (CLV)",
+          "description": "Total revenue expected from a customer",
+          "calculation": "Average revenue per customer / Churn rate",
+          "target_ratio": "CLV:CAC ratio of 3:1 or higher"
+        }
+      ]
+    },
+    {
+      "category": "Product Metrics",
+      "metrics": [
+        {
+          "name": "Daily/Monthly Active Users",
+          "description": "Users who engage with product regularly",
+          "calculation": "Unique users performing core actions",
+          "benchmark": "Varies by industry and product type"
+        },
+        {
+          "name": "Feature Adoption Rate",
+          "description": "Percentage of users adopting new features",
+          "calculation": "Users using feature / Total users",
+          "target": "30-40% adoption within 3 months"
+        }
+      ]
+    }
+  ]
+}
